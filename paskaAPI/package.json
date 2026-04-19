@@ -1,7 +1,7 @@
 {
   "name": "paskaapi-server",
   "version": "1.0.0",
-  "description": "Backend for Paska API",
+  "description": "Backend for Easter Paska API",
   "main": "dist/app.js",
   "type": "module",
   "scripts": {
